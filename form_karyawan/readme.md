@@ -26,7 +26,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 Berikut Tugas Soal Nomer 5 Semoga saya beruntung :).
 
 *File .SQL ada didalam folder PERLENGKAPAN.
-*Jangan lupa sebelum dijalankan ketik perintah ">composer Update" pada terminal.
+*Jangan lupa sebelum dijalankan ketik perintah ">composer update" pada terminal.
 
 ## License
 
