@@ -23,9 +23,10 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Learning Laravel
 
-Berikut Tugas Soal Programmer Nomer 5 PT.DTP, Semoga saya beruntung :).
+Berikut Tugas Soal Nomer 5 Semoga saya beruntung :).
 
 *File .SQL ada didalam folder PERLENGKAPAN.
+*Jangan lupa sebelum dijalankan ketik perintah ">composer Update" pada terminal.
 
 ## License
 
