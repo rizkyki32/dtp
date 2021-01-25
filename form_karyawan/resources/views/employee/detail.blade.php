@@ -28,7 +28,7 @@
         <td>{{ $employee->alamat }}</td>
     </tr>
     <tr>
-        <td>NO_KTP *</td>
+        <td>NO KTP *</td>
         <td>:</td>
         <td>{{ $employee->no_ktp }}</td>
     </tr>
