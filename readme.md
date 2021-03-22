@@ -1,5 +1,5 @@
 
-## Berikut Tugas Soal Nomer 5 Semoga saya beruntung :).
+## Laravel DTP.
 
 *File .SQL ada didalam folder PERLENGKAPAN.
 *Jangan lupa sebelum dijalankan ketik perintah ">composer update" pada terminal.
